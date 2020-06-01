@@ -33,7 +33,7 @@ However before we start the proof lets define some basic terms in origami:
 
 **An example crease pattern, with a mountain-valley assignment:**
 
-![](/plane.svg)
+![](/planeunfold.svg)
 
 # Strip Folding
 
