@@ -31,6 +31,10 @@ However before we start the proof lets define some basic terms in origami:
 - Finally *simple folds* are folds along a straight line by +/- 180
   degrees.
 
+**An example crease pattern, with a mountain-valley assignment:**
+
+![](/plane.svg)
+
 # Strip Folding
 
 For our proof we shall consider a strip of paper (so not very wide,
@@ -57,6 +61,7 @@ the strip (depending if our desired direction is "up" or "down") we can
 get our strip to turn in any direction we like.
 
 **Turn Gadget**
+
 ![](/turngadget.PNG)
 
 The second gadget we call a "color-reversal gadget," by folding a simple
@@ -69,6 +74,7 @@ paper continues in the same direction it was originally but with the back
 side facing up now.
 
 **Color-Reversal Gadget:**
+
 ![](/colorswapgadget.PNG)
 
 The gist of this proof then is that we take our strip of paper and we wrap
@@ -98,6 +104,10 @@ over hand the edges where we have done the turn gadgets we can hide the
 excess paper underneat each trinagle by doing successive mountain folds
 along the edges of the triangles until we only have the desired shape
 remaining. 
+
+**Strip folding in action:**
+
+![](/stripfolding.PNG)
 
 From this we can see that by following this method we can fold any 2D
 union of polygons, and if we consider our turn-gadget briefly we can see
@@ -191,6 +201,10 @@ fold this it is easy to see that two longer segments will intersect, this
 means this pattern is not flat foldable. So now lets look at how we can
 figure out what *mountain-valley assignments* are flat foldable.
 
+**A bad mountain-valley assignment:**
+
+![](/bad 1d fold.PNG)
+
 To do this we define two new folds: an *end fold* is a fold where the
 distance to the end of the paper from a crease is greater than or equal to
 the distance to the next crease: visually this means we can fold the end
@@ -205,6 +219,10 @@ distance to the next folds are further then the distance betweent the two
 crimped folds, there is no risk of them intersecting the crimp. We can
 consider the crimped paper to form a new sheet of paper minus the two
 crimped creases, and with a shortened overall length. 
+
+**A crimp:**
+
+![](crimp.PNG)
 
 Since borth *crimps* and *end folds* don't cause any risk of intersection,
 our piece of paper after we perform these folds is stil flat foldable.
@@ -227,7 +245,7 @@ However if we try to abstract this argument any further we begin to run
 into issues, if we want to move into 2D folding properly we need to
 consider single vertex folding. 
 
-#Single Vertex Folding
+# Single Vertex Folding
 Single vertex folding is simple as well: we image a circular disk of paper
 with creases emenating from the center. The idea is that this allows us to
 understand foldaibility around a vertex in a larger crease pattern. How
@@ -280,6 +298,10 @@ crumpling flat, you can look at all of the little folds you have created
 and trace them out, and visually see that all of them follow both
 Maekawa-Justin's and Kawaski's theorems.
 
+**An 1D "unwrapping" of a single vertex fold:**
+
+![](/kawasaki.PNG)
+
 Another good demo of these proofs is to fold 3 mountain folds on a page
 all 120 degrees aprart, this won't fold flat, but notice what you have to
 do flatten it. If you draw a triangle between the end of the three
@@ -290,7 +312,7 @@ something we will use later called a *rabbits-ear molecule.*
 After we add these two truths, seeing if a vertex will fold flat follows
 all the same logic 1D folding here, except since we have a loop we can no
 longer *end fold* so keeping in mind the above theorems we just
-continuosly crimp until either we run into an issue or it works. 
+continuously crimp until either we run into an issue or it works. 
 
 # "Chasing folds"
 
@@ -352,6 +374,10 @@ wires are true or all are false. With these tools we can represent our
 base problem in origami, and so it is strongly NP hard. Below is a diagram
 of the setup. However to me the coolest part of all of this is the idea
 that we can build analog logical circuitry out of origami.
+
+**The "circuit" used to prove NP-hardness:**
+
+![](/nphard.PNG)
 
 # Tree Maker
 
@@ -441,7 +467,7 @@ corresponding uniaxial base to help with understanding.
 
 ![](/patternandbase.PNG)
 
-Finally heres a super cool animation I made, of a design of Robert Lang's
+Finally, just to drive home the power of treemaker, heres a super cool animation I made, of a design of Robert Lang's
 also made with the Tree Maker technique of a little dragon
 (https://langorigami.com/artwork/knl-dragon-opus-132/) being folded.
 
