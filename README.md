@@ -177,7 +177,7 @@ computational hardness of folding algorithms).
 So far we have talked about two algorithms to fold most anything, the
 first efficient but structurally unsound and complicated to fold, the
 second more structurally useful, but still slow to fold and hard to be
-efficent with. Now we will end with a final algorithm called Tree Maker
+efficient with. Now we will end with a final algorithm called Tree Maker
 which though theoretically less versatile, is practically much more useful
 and is actually used by most professional origamists for many complicated
 designs, here we can see some examples of things folded using Tree Maker.
