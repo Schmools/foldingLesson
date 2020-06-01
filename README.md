@@ -182,7 +182,7 @@ which though theoretically less versatile, is practically much more useful
 and is actually used by most professional origamists for many complicated
 designs, here we can see some examples of things folded using Tree Maker.
 
-**A little tase of what Tree Maker can do: Nazgul 8.1 by Jason S. Ku and Roosevelt Elk by Robert Lang:**
+**A little taste of what Tree Maker can do: Nazgul 8.1 by Jason S. Ku and Roosevelt Elk by Robert Lang:**
 
 ![http://jasonku.mit.edu/nazgul3.html](/nazgul3_1.jpg)
 
