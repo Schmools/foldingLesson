@@ -31,7 +31,7 @@ However before we start the proof lets define some basic terms in origami:
 - Finally *simple folds* are folds along a straight line by +/- 180
   degrees.
 
-**An example crease pattern, with a mountain-valley assignment:**
+**An example crease pattern, with a mountain-valley assignment (for a paper airplane!):**
 
 ![](/planeunfold.svg)
 
