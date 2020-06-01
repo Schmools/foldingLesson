@@ -472,3 +472,6 @@ also made with the Tree Maker technique of a little dragon
 (https://langorigami.com/artwork/knl-dragon-opus-132/) being folded.
 
 ![Thanks for reading!](/langKnlDragon.gif)
+
+**Oh and Marguli's problem:**
+Turns out it's impossivle to prove by packig a whole lot of disks onto our square of paper using tree maker we can make a very spiky tree with an arbitrarily large perimeter!
