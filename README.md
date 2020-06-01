@@ -56,6 +56,9 @@ one of the two points where our 1st moutain fold intersected the edge of
 the strip (depending if our desired direction is "up" or "down") we can
 get our strip to turn in any direction we like.
 
+**Turn Gadget**
+![](/turngadget.PNG)
+
 The second gadget we call a "color-reversal gadget," by folding a simple
 mountain fold perpindicular to the edge of the paper and then folding the
 bottom layer along a valley fold 45 degrees to the edge of the paper and
@@ -64,6 +67,9 @@ edge, and then making a similiar fold to now the 2 back layers of paper
 but through the other point of intersection, we have a fold where the
 paper continues in the same direction it was originally but with the back
 side facing up now.
+
+**Color-Reversal Gadget:**
+![](/colorswapgadget.PNG)
 
 The gist of this proof then is that we take our strip of paper and we wrap
 it around our polygons using our turn gadget, and when we want our faces
@@ -378,6 +384,9 @@ in our tree, *leaves* are vertices of our tree that only connect to the
 tree on one *flap*, and we stipulate that only one point of paper folds to
 each leaf.
 
+**Uniaxial Base & it's projected tree:**
+![](/baseandprojection.PNG)
+
 We also need to introdo a lemma, the distance between any two points on
 our tree must be less than or equal to that same distance on our actual
 paper (before we fold it into our uniaxial base). Basically this
@@ -427,6 +436,11 @@ software by the same name that automates this for us (among much more).
 Below is an example of a crease pattern made by Tree Maker and it's
 corresponding uniaxial base to help with understanding. 
 
+**Base and Fold Pattern:**
+![](/baseandprojection.PNG)
+
 Finally heres a super cool animation I made, of a design of Robert Lang's
 also made with the Tree Maker technique of a little dragon
 (https://langorigami.com/artwork/knl-dragon-opus-132/) being folded.
+
+![Thanks for reading!](/langKnlDragon.gif)
