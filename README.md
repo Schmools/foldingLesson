@@ -80,7 +80,7 @@ side facing up now.
 The gist of this proof then is that we take our strip of paper and we wrap
 it around our polygons using our turn gadget, and when we want our faces
 to be a differnt color we use our color-reversal gadget. More formally our
-first step is to take our shape and triangulate it, there are effiecient
+first step is to take our shape and triangulate it, there are efficient
 algorithms to do this but an easy way is to just continue to connect
 vertices of our polygon (such that they dont cross other placed lines)
 until we have polygonal faces remaining). We then pick an order to visit
