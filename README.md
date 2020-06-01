@@ -397,7 +397,7 @@ finally a gadget with three wire inputs that can not be folded if all
 wires are true or all are false. With these tools we can represent our
 base problem in origami, and so it is strongly NP hard. Below is a diagram
 of the setup. However to me the coolest part of all of this is the idea
-that we can build analog logical circuitry out of origami.
+that we can build analog logical circuitry out of origami (it makes me want to make a little calculator entirely out of paper!).
 
 **The "circuit" used to prove NP-hardness:**
 
