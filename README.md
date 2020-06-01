@@ -172,6 +172,11 @@ which though theoretically less versatile, is practically much more useful
 and is actually used by most professional origamists for many complicated
 designs, here we can see some examples of things folded using Tree Maker.
 
+**A little tase of what Tree Maker can do: Nazgul 8.1 by Jason S. Ku and Roosevelt Elk by Robert Lang:**
+![http://jasonku.mit.edu/nazgul3.html](/nazgul3_1.jpg)
+
+![https://langorigami.com/artwork/roosevelt-elk-opus-358/](/roosevelt_elk-wpcf_1024x768.jpg)
+
 Before we get there however lets take a closer look at crease patterns and
 flat foldability, basically understanding a little better what makes
 something possible to fold in the first place.
