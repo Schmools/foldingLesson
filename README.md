@@ -331,7 +331,7 @@ something we will use later called a *rabbits-ear molecule.*
 
 **Where to fold to make flat?**
 
-![](/20200601_015757.jpg)
+![](/20200601_015726.jpg)
 
 After we add these two truths, seeing if a vertex will fold flat follows
 all the same logic 1D folding here, except since we have a loop we can no
