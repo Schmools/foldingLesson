@@ -294,7 +294,7 @@ central angles of our vertex fold:
   360 degrees, each "half sum" must equal 180 degrees.
 
 - Maekawa-Justin's theorem says that the number of mountain creases, minus
-  the number of valley creases must eqal +/-2. If we once again look at
+  the number of valley creases must equal +/-2. If we once again look at
   the diagrams below we see that for our ends to end up on the same side
   to join up again we need 1 more either mountain or valley crease (valley
   in the diagram below) so that our ends match up. Then we just have to
