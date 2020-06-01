@@ -112,7 +112,7 @@ remaining.
 From this we can see that by following this method we can fold any 2D
 union of polygons, and if we consider our turn-gadget briefly we can see
 by choosing to not make the final fold a simple fold but instead let us
-leave it at an arbitrary angle "up," if we image the strip upside down on
+leave it at an arbitrary angle "up," if we imagine the strip upside down on
 the table, we can see how this same method would work in 3D. 
 
 Surpsingly this algorithm can be quite efficient, as we decrease the width
@@ -129,7 +129,7 @@ paper is infinitely thin we actually waste no paper doing this.
 # Origamizer
 
 Now this is a very cool proof, and was in fact one of the first big
-results in compational origami, but it feels a little bit like cheating in
+results in computational origami, but it feels a little bit like cheating in
 that though it can be very efficient it's really a pain to practically
 fold anything complicated with this method and beyond this nothing is
 particularly structurally sound that we fold, its just a strip of paper.
