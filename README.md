@@ -203,7 +203,7 @@ figure out what *mountain-valley assignments* are flat foldable.
 
 **A bad mountain-valley assignment:**
 
-![](/bad 1d fold.PNG)
+![](/bad1dfold.PNG)
 
 To do this we define two new folds: an *end fold* is a fold where the
 distance to the end of the paper from a crease is greater than or equal to
