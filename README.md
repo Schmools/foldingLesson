@@ -1,4 +1,4 @@
-![](/title.png)
+![title](/title.PNG)
 ## pcbch project, Samuel Schuur, 2020
 
 Lets start with a proof: given a sufficiently large piece of (bicolor)
