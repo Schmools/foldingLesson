@@ -1,4 +1,4 @@
-# Folding Most Anything
+
 ## pcbch project, Samuel Schuur, 2020
 
 Lets start with a proof: given a sufficiently large piece of (bicolor)
@@ -31,7 +31,7 @@ However before we start the proof lets define some basic terms in origami:
 - Finally *simple folds* are folds along a straight line by +/- 180
   degrees.
 
-#Strip Folding
+# Strip Folding
 
 For our proof we shall consider a strip of paper (so not very wide,
 relative to it's length) though it doesn't have to be initially, after all
@@ -110,7 +110,7 @@ can actually pick any random order of triangles to visit and go straight
 to each one without regards to an efficient path. Since in this case our
 paper is infinitely thin we actually waste no paper doing this. 
 
-#Origamizer
+# Origamizer
 
 Now this is a very cool proof, and was in fact one of the first big
 results in compational origami, but it feels a little bit like cheating in
@@ -160,7 +160,7 @@ Before we get there however lets take a closer look at crease patterns and
 flat foldability, basically understanding a little better what makes
 something possible to fold in the first place.
 
-#1D Folding
+# 1D Folding
 
 We start our journey by understanding 1D foldability, perhaps somewhat
 counterintuitively after all paper is 2D, but gaining an idea of 1D
@@ -243,8 +243,6 @@ fold to be *flat foldable.* To understand them we hae to realize that the
 length of line segments between crases in our 1D folding correspond to the
 central angles of our vertex fold:
 
-**put these in latex**
-
 - Kawasaki's theorem says that the sum of all of the odd angles, must
   equal the sum of all of the even angles which also must equal 180
   degrees. This is easiest once again to understand by looking at the
@@ -288,7 +286,7 @@ all the same logic 1D folding here, except since we have a loop we can no
 longer *end fold* so keeping in mind the above theorems we just
 continuosly crimp until either we run into an issue or it works. 
 
-#"Chasing folds"
+# "Chasing folds"
 
 Given we now know what must be true for a vertex to fold flat we can begin
 to look at how whole 2D crease patterns by checking, that all verticies
@@ -310,7 +308,7 @@ proof, but the basic algorithm goes, that if we can we should try to join
 as many vertex "loops" together and "chase folds" until we either run into
 an issue or the whole thing is locally flat foldable.
 
-#NP Hardness 
+# NP Hardness 
 
 The above method might seem like enough to check if any 2D *crease
 pattern* is foldable, and for the most part (it checks for local
@@ -349,7 +347,7 @@ base problem in origami, and so it is strongly NP hard. Below is a diagram
 of the setup. However to me the coolest part of all of this is the idea
 that we can build analog logical circuitry out of origami.
 
-#Tree Maker
+# Tree Maker
 
 Now we finally, have arrived at the promised algorithm, Tree Maker, what
 Tree Maker does is much simpler compared to our previous algorithms but
