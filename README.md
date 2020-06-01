@@ -327,11 +327,11 @@ something we will use later called a *rabbits-ear molecule.*
 
 **Crumpling demonstrates our theorems!**
 
-![]()
+![](/20200601_015757.jpg)
 
 **Where to fold to make flat?**
 
-![]()
+![](/20200601_015757.jpg)
 
 After we add these two truths, seeing if a vertex will fold flat follows
 all the same logic 1D folding here, except since we have a loop we can no
@@ -503,4 +503,4 @@ Turns out it's impossible to prove! By packing a whole lot of disks onto our squ
 *Credits:*
 Most all of my research for this came from Erik Demaine's class Geometric Folding Algorithms and Linkages, many of the images in this came from the notes for that class, and the textbook of the same name. The rest of the images were made by me by taking photos or using several wonderful pieces of open source software to generate the crease patterns and animations on this page. These incluse Robby Kraft's rabbit-ear library, Amanda Ghassaei's origami simulator, Robert Lang's treemaker, and Tomohiro Tachi's origamizer. 
 
-*Thanks for reading!*
+*Thanks for reading, theres a lot more to learn here, I had a lot of difficulty editing what to stick in here so if you have any interest at all I recommend checking out any of the referenced people!*
