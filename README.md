@@ -487,6 +487,8 @@ software by the same name that automates this for us (among much more).
 Below is an example of a crease pattern made by Tree Maker and it's
 corresponding uniaxial base to help with understanding. 
 
+I recommend trying a simple example of this on a piece of paper just to understand this a little better, it's hard to wrap ones head around it all just by reading.
+
 **Base and Fold Pattern:**
 
 ![](/patternandbase.PNG)
