@@ -498,7 +498,7 @@ also made with the Tree Maker technique of a little dragon
 ![Thanks for reading!](/langKnlDragon.gif)
 
 **Oh and Marguli's problem:**
-Turns out it's impossible to prove! By packing a whole lot of disks onto our square of paper and using tree maker techniques we can make a very spiky tree with an arbitrarily large perimeter!
+Turns out it's impossible to prove! By packing a whole lot of disks onto our square of paper and using tree maker techniques we can make a very spiky tree with an arbitrarily large perimeter! This is a pretty fun and nonintuitive result we can get from TreeMaker.
 
 *Credits:*
 Most all of my research for this came from Erik Demaine's class Geometric Folding Algorithms and Linkages, many of the images in this came from the notes for that class, and the textbook of the same name. The rest of the images were made by me by taking photos or using several wonderful pieces of open source software to generate the crease patterns and animations on this page. These incluse Robby Kraft's rabbit-ear library, Amanda Ghassaei's origami simulator, Robert Lang's treemaker, and Tomohiro Tachi's origamizer. 
