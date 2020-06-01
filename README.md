@@ -385,6 +385,7 @@ tree on one *flap*, and we stipulate that only one point of paper folds to
 each leaf.
 
 **Uniaxial Base & it's projected tree:**
+
 ![](/baseandprojection.PNG)
 
 We also need to introdo a lemma, the distance between any two points on
@@ -437,7 +438,8 @@ Below is an example of a crease pattern made by Tree Maker and it's
 corresponding uniaxial base to help with understanding. 
 
 **Base and Fold Pattern:**
-![](/baseandprojection.PNG)
+
+![](/patternandbase.PNG)
 
 Finally heres a super cool animation I made, of a design of Robert Lang's
 also made with the Tree Maker technique of a little dragon
